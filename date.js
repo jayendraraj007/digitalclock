@@ -71,25 +71,25 @@ function digicl(){
     switch(day)
     {
         case 0: day="Sunday"
-        document.body.style.backgroundImage="url(../../CSS/gif2harry.gif)"
+        document.body.style.backgroundImage="url(../digitalclock/gif2harry.gif)"
         break;
         case 1: day="Monday"
-        document.body.style.backgroundImage="url(../../CSS/gif2harry.gif)"
+        document.body.style.backgroundImage="url(../digitalclock/gif2harry.gif)"
         break;
         case 2: day="Tuesday"
-        document.body.style.backgroundImage="url(../../CSS/gif2harry.gif)"
+        document.body.style.backgroundImage="url(../digitalclock/gif2harry.gif)"
         break;
         case 3: day="Wednesday"
-        document.body.style.backgroundImage="url(../../CSS/gif2harry.gif)"
+        document.body.style.backgroundImage="url(../digitalclock/gif2harry.gif)"
         break;
         case 4: day="Thursday"
-        document.body.style.backgroundImage="url(../../CSS/gif2harry.gif)"
+        document.body.style.backgroundImage="url(../digitalclock/gif2harry.gif)"
         break;
         case 5: day="Friday"
-        document.body.style.backgroundImage="url(../../CSS/gif2harry.gif)"
+        document.body.style.backgroundImage="url(../digitalclock/gif2harry.gif)"
         break;
         case 6: day="Saturday"
-        document.body.style.backgroundImage="url(../../CSS/gif2harry.gif)"
+        document.body.style.backgroundImage="url(../digitalclock/gif2harry.gif)"
         break;
     }
     if(mm>=0&&mm<10){
